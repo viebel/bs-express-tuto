@@ -12,8 +12,7 @@
   "author": "",
   "license": "MIT",
     "devDependencies": {
-	"webpack": "^3.6.0",
-	"bs-platform": "^1.10"
+	"bs-platform": "^2.0.0"
   },
     "dependencies": {
 	"bs-express": "^0.0.4"
